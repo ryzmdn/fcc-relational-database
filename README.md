@@ -1,6 +1,6 @@
 # FreeCodeCamp Relational Database Certification Projects
 
-I'm thrilled to share my journey through completing all the certified Relational Database Projects from the [freeCodeCamp Relational Database](https://www.freecodecamp.org/learn/2022/relational-database/). These projects utilize **SQL**, **PostgreSQL**, and database management principles to solve real-world challenges while ensuring proper database design and normalization. In this repository, you'll find examples of the **5 projects** I've completed, which you can use as references or guides to tackle similar tasks in your own learning.
+I'm thrilled to share my journey through completing all the certified Relational Database Projects from the [freeCodeCamp Relational Database](https://www.freecodecamp.org/learn/relational-database/). These projects utilize **SQL**, **PostgreSQL**, and database management principles to solve real-world challenges while ensuring proper database design and normalization. In this repository, you'll find examples of the **5 projects** I've completed, which you can use as references or guides to tackle similar tasks in your own learning.
 
 ## Projects in this Repository
 
